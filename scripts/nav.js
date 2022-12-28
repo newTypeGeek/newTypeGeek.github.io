@@ -1,5 +1,5 @@
-let homeLink = "#";
-let aboutLink = "#";
+let homeLink = "index.html";
+let aboutLink = "about.html";
 
 let homeItem = `<li><a href=${homeLink}>Home</a><li>`
 let aboutItem = `<li><a href=${aboutLink}>About</a><li>`
